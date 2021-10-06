@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="gray_500">#A0A0A0</color>
+    <color name="gray_700">#858585</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_bg">#646464</color>
+    <color name="hint_color">#cccccc</color>
+
+    <color name="degreeL0">#B6DFFF</color>
+    <color name="degreeL5">#BEFFEA</color>
+    <color name="degreeL15">#FFE5BE</color>
+    <color name="degreeL25">#FFD772</color>
+    <color name="degreeM25">#FF8963</color>
+
+    <color name="btn_degreeL0">#7DC6FF</color>
+    <color name="btn_degreeL5">#8BEFCF</color>
+    <color name="btn_degreeL15">#F8C983</color>
+    <color name="btn_degreeL25">#EAB42C</color>
+    <color name="btn_degreeM25">#EF5E2F</color>
+
+</resources>
