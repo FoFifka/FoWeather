@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidProjects/FoWeather/app/src/main/res/drawable/launch_screen.xml" value="0.27870370370370373" />
         <entry key="..\:/AndroidProjects/FoWeather/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/FoWeather/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.27870370370370373" />
       </map>
     </option>
   </component>
